@@ -1,0 +1,15 @@
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\LoopsIntroApp\bin\Debug\net8.0\LoopsIntroApp.exe
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\LoopsIntroApp\bin\Debug\net8.0\LoopsIntroApp.deps.json
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\LoopsIntroApp\bin\Debug\net8.0\LoopsIntroApp.runtimeconfig.json
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\LoopsIntroApp\bin\Debug\net8.0\LoopsIntroApp.dll
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\LoopsIntroApp\bin\Debug\net8.0\LoopsIntroApp.pdb
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\LoopsIntroApp\obj\Debug\net8.0\LoopsIntroApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\LoopsIntroApp\obj\Debug\net8.0\LoopsIntroApp.AssemblyInfoInputs.cache
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\LoopsIntroApp\obj\Debug\net8.0\LoopsIntroApp.AssemblyInfo.cs
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\LoopsIntroApp\obj\Debug\net8.0\LoopsIntroApp.csproj.CoreCompileInputs.cache
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\LoopsIntroApp\obj\Debug\net8.0\LoopsIntroApp.sourcelink.json
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\LoopsIntroApp\obj\Debug\net8.0\LoopsIntroApp.dll
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\LoopsIntroApp\obj\Debug\net8.0\refint\LoopsIntroApp.dll
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\LoopsIntroApp\obj\Debug\net8.0\LoopsIntroApp.pdb
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\LoopsIntroApp\obj\Debug\net8.0\LoopsIntroApp.genruntimeconfig.cache
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\LoopsIntroApp\obj\Debug\net8.0\ref\LoopsIntroApp.dll

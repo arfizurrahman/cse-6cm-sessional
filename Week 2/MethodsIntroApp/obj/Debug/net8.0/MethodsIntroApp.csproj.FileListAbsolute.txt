@@ -1,0 +1,15 @@
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\MethodsIntroApp\bin\Debug\net8.0\MethodsIntroApp.exe
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\MethodsIntroApp\bin\Debug\net8.0\MethodsIntroApp.deps.json
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\MethodsIntroApp\bin\Debug\net8.0\MethodsIntroApp.runtimeconfig.json
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\MethodsIntroApp\bin\Debug\net8.0\MethodsIntroApp.dll
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\MethodsIntroApp\bin\Debug\net8.0\MethodsIntroApp.pdb
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\MethodsIntroApp\obj\Debug\net8.0\MethodsIntroApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\MethodsIntroApp\obj\Debug\net8.0\MethodsIntroApp.AssemblyInfoInputs.cache
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\MethodsIntroApp\obj\Debug\net8.0\MethodsIntroApp.AssemblyInfo.cs
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\MethodsIntroApp\obj\Debug\net8.0\MethodsIntroApp.csproj.CoreCompileInputs.cache
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\MethodsIntroApp\obj\Debug\net8.0\MethodsIntroApp.sourcelink.json
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\MethodsIntroApp\obj\Debug\net8.0\MethodsIntroApp.dll
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\MethodsIntroApp\obj\Debug\net8.0\refint\MethodsIntroApp.dll
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\MethodsIntroApp\obj\Debug\net8.0\MethodsIntroApp.pdb
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\MethodsIntroApp\obj\Debug\net8.0\MethodsIntroApp.genruntimeconfig.cache
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\MethodsIntroApp\obj\Debug\net8.0\ref\MethodsIntroApp.dll

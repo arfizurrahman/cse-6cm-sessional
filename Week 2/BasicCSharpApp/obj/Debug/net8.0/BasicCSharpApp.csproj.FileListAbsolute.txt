@@ -1,0 +1,15 @@
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\BasicCSharpApp\bin\Debug\net8.0\BasicCSharpApp.exe
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\BasicCSharpApp\bin\Debug\net8.0\BasicCSharpApp.deps.json
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\BasicCSharpApp\bin\Debug\net8.0\BasicCSharpApp.runtimeconfig.json
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\BasicCSharpApp\bin\Debug\net8.0\BasicCSharpApp.dll
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\BasicCSharpApp\bin\Debug\net8.0\BasicCSharpApp.pdb
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\BasicCSharpApp\obj\Debug\net8.0\BasicCSharpApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\BasicCSharpApp\obj\Debug\net8.0\BasicCSharpApp.AssemblyInfoInputs.cache
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\BasicCSharpApp\obj\Debug\net8.0\BasicCSharpApp.AssemblyInfo.cs
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\BasicCSharpApp\obj\Debug\net8.0\BasicCSharpApp.csproj.CoreCompileInputs.cache
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\BasicCSharpApp\obj\Debug\net8.0\BasicCSharpApp.sourcelink.json
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\BasicCSharpApp\obj\Debug\net8.0\BasicCSharpApp.dll
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\BasicCSharpApp\obj\Debug\net8.0\refint\BasicCSharpApp.dll
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\BasicCSharpApp\obj\Debug\net8.0\BasicCSharpApp.pdb
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\BasicCSharpApp\obj\Debug\net8.0\BasicCSharpApp.genruntimeconfig.cache
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 2\BasicCSharpApp\obj\Debug\net8.0\ref\BasicCSharpApp.dll
