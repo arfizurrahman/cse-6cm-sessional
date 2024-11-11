@@ -1,0 +1,14 @@
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 3\BasicDataStructuresApp\bin\Debug\net8.0\BasicDataStructuresApp.exe
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 3\BasicDataStructuresApp\bin\Debug\net8.0\BasicDataStructuresApp.deps.json
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 3\BasicDataStructuresApp\bin\Debug\net8.0\BasicDataStructuresApp.runtimeconfig.json
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 3\BasicDataStructuresApp\bin\Debug\net8.0\BasicDataStructuresApp.dll
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 3\BasicDataStructuresApp\bin\Debug\net8.0\BasicDataStructuresApp.pdb
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 3\BasicDataStructuresApp\obj\Debug\net8.0\BasicDataStructuresApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 3\BasicDataStructuresApp\obj\Debug\net8.0\BasicDataStructuresApp.AssemblyInfoInputs.cache
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 3\BasicDataStructuresApp\obj\Debug\net8.0\BasicDataStructuresApp.AssemblyInfo.cs
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 3\BasicDataStructuresApp\obj\Debug\net8.0\BasicDataStructuresApp.csproj.CoreCompileInputs.cache
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 3\BasicDataStructuresApp\obj\Debug\net8.0\BasicDataStructuresApp.dll
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 3\BasicDataStructuresApp\obj\Debug\net8.0\refint\BasicDataStructuresApp.dll
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 3\BasicDataStructuresApp\obj\Debug\net8.0\BasicDataStructuresApp.pdb
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 3\BasicDataStructuresApp\obj\Debug\net8.0\BasicDataStructuresApp.genruntimeconfig.cache
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 3\BasicDataStructuresApp\obj\Debug\net8.0\ref\BasicDataStructuresApp.dll

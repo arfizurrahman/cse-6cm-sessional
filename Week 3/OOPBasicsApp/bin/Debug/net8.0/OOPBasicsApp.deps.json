@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OOPBasicsApp/1.0.0": {
+        "runtime": {
+          "OOPBasicsApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOPBasicsApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

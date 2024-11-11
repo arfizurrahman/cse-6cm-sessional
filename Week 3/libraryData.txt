@@ -1,0 +1,4 @@
+Designing Data Intensice Application
+A guide to Modular Monolith
+Atomic Habits
+Test

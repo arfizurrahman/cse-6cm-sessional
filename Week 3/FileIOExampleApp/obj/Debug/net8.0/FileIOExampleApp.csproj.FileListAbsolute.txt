@@ -1,0 +1,14 @@
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 3\FileIoExampleApp\bin\Debug\net8.0\FileIOExampleApp.exe
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 3\FileIoExampleApp\bin\Debug\net8.0\FileIOExampleApp.deps.json
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 3\FileIoExampleApp\bin\Debug\net8.0\FileIOExampleApp.runtimeconfig.json
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 3\FileIoExampleApp\bin\Debug\net8.0\FileIOExampleApp.dll
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 3\FileIoExampleApp\bin\Debug\net8.0\FileIOExampleApp.pdb
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 3\FileIoExampleApp\obj\Debug\net8.0\FileIOExampleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 3\FileIoExampleApp\obj\Debug\net8.0\FileIOExampleApp.AssemblyInfoInputs.cache
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 3\FileIoExampleApp\obj\Debug\net8.0\FileIOExampleApp.AssemblyInfo.cs
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 3\FileIoExampleApp\obj\Debug\net8.0\FileIOExampleApp.csproj.CoreCompileInputs.cache
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 3\FileIoExampleApp\obj\Debug\net8.0\FileIOExampleApp.dll
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 3\FileIoExampleApp\obj\Debug\net8.0\refint\FileIOExampleApp.dll
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 3\FileIoExampleApp\obj\Debug\net8.0\FileIOExampleApp.pdb
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 3\FileIoExampleApp\obj\Debug\net8.0\FileIOExampleApp.genruntimeconfig.cache
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 3\FileIoExampleApp\obj\Debug\net8.0\ref\FileIOExampleApp.dll
