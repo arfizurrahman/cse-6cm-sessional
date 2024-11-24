@@ -1,0 +1,14 @@
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 4\OOPPrinciplesApp\bin\Debug\net8.0\OOPPrinciplesApp.exe
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 4\OOPPrinciplesApp\bin\Debug\net8.0\OOPPrinciplesApp.deps.json
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 4\OOPPrinciplesApp\bin\Debug\net8.0\OOPPrinciplesApp.runtimeconfig.json
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 4\OOPPrinciplesApp\bin\Debug\net8.0\OOPPrinciplesApp.dll
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 4\OOPPrinciplesApp\bin\Debug\net8.0\OOPPrinciplesApp.pdb
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 4\OOPPrinciplesApp\obj\Debug\net8.0\OOPPrinciplesApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 4\OOPPrinciplesApp\obj\Debug\net8.0\OOPPrinciplesApp.AssemblyInfoInputs.cache
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 4\OOPPrinciplesApp\obj\Debug\net8.0\OOPPrinciplesApp.AssemblyInfo.cs
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 4\OOPPrinciplesApp\obj\Debug\net8.0\OOPPrinciplesApp.csproj.CoreCompileInputs.cache
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 4\OOPPrinciplesApp\obj\Debug\net8.0\OOPPrinciplesApp.dll
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 4\OOPPrinciplesApp\obj\Debug\net8.0\refint\OOPPrinciplesApp.dll
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 4\OOPPrinciplesApp\obj\Debug\net8.0\OOPPrinciplesApp.pdb
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 4\OOPPrinciplesApp\obj\Debug\net8.0\OOPPrinciplesApp.genruntimeconfig.cache
+E:\IIUC\CSE\6CM - Software Development\Sessional (CSE 3638 - CSE 3640)\cse-6cm-sessional\Week 4\OOPPrinciplesApp\obj\Debug\net8.0\ref\OOPPrinciplesApp.dll
